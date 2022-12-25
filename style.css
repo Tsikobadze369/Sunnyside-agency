@@ -86,3 +86,37 @@
   margin-top: 50px;
   margin-left: 170px;
 }
+.thirdSection {
+  display: flex;
+  justify-content: space-between;
+}
+.thirdSection h2 {
+  height: 98px;
+  font-size: 50px;
+  font-weight: 900;
+  color: #24303e;
+  line-height: 49.32px;
+  letter-spacing: -0.29px;
+  margin-top: 160px;
+  margin-left: 100px;
+}
+.using {
+  width: 460px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #808397;
+  letter-spacing: -0.13px;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.learnMore2 {
+  font-size: 15px;
+  color: #24303e;
+  font-weight: 900;
+  margin-top: 50px;
+  margin-left: 110px;
+}
+.textDiv2 {
+  box-shadow: 10px 0 5px -2px #888;
+}
