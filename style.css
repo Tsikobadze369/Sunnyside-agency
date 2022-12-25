@@ -126,3 +126,118 @@
 .fourthSection div {
   display: flex;
 }
+.sixthSection h1 {
+  font-family: Fraunces;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #a7aaad;
+  margin-top: 8rem;
+}
+.clientTestimonials {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 8rem;
+}
+.firstSmallDiv {
+  width: 350px;
+}
+.secondSmallDiv {
+  width: 350px;
+}
+.thirdSmallDiv {
+  width: 350px;
+}
+.firstSmallDiv img {
+  margin-left: 9rem;
+}
+.secondSmallDiv img {
+  margin-left: 9rem;
+}
+.thirdSmallDiv img {
+  margin-left: 9rem;
+}
+.wePut {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #5b636d;
+  margin-top: 3rem;
+}
+.emily {
+  font-family: Fraunces;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 22px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #24303e;
+  margin-top: 3rem;
+}
+.marketing {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+  color: #a7aaad;
+}
+.sunnyside {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #5b636d;
+  margin-top: 3rem;
+}
+.thomas {
+  font-family: Fraunces;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 22px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #24303e;
+  margin-top: 3rem;
+}
+.chief {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+  color: #a7aaad;
+}
+.incredible {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #5b636d;
+  margin-top: 3rem;
+}
+.jennie {
+  font-family: Fraunces;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 22px;
+  letter-spacing: -0.12857143580913544px;
+  text-align: center;
+  color: #24303e;
+  margin-top: 3rem;
+}
+.business {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+  color: #a7aaad;
+}
