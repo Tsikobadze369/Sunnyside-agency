@@ -41,6 +41,7 @@
 .creatives {
   font-size: 56px;
   font-weight: 900;
+  font-family: Fraunces;
   line-height: 69.05px;
   letter-spacing: 9px;
   text-align: center;
@@ -58,6 +59,7 @@
 .secondSection h2 {
   width: 445px;
   height: 98px;
+  font-family: Fraunces;
   font-size: 50px;
   font-weight: 900;
   color: #24303e;
@@ -92,6 +94,7 @@
 }
 .thirdSection h2 {
   height: 98px;
+  font-family: Fraunces;
   font-size: 50px;
   font-weight: 900;
   color: #24303e;
@@ -119,4 +122,7 @@
 }
 .textDiv2 {
   box-shadow: 10px 0 5px -2px #888;
+}
+.fourthSection div {
+  display: flex;
 }
