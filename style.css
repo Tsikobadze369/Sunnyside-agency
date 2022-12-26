@@ -3,6 +3,8 @@
   width: 100%;
   height: 4174px;
   margin: 0 auto;
+  background-color: #ffffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 .mainphoto {
   background-image: url("./imgFolder/photo-1569201529241-f96205e2f2c6.png");
@@ -68,9 +70,7 @@
   margin-top: 160px;
   margin-left: 165px;
 }
-.textDiv {
-  box-shadow: -10px 0px 10px 1px #aaaaaa;
-}
+
 .weAre {
   width: 445px;
   font-size: 18px;
@@ -82,11 +82,17 @@
   margin-top: 30px;
 }
 .learnMore {
+  font-family: Fraunces;
   font-size: 15px;
   color: #24303e;
   font-weight: 900;
   margin-top: 50px;
   margin-left: 170px;
+  cursor: pointer;
+}
+.learnMore:hover {
+  width: 6.9rem;
+  border-bottom: 5px solid #eadf05;
 }
 .thirdSection {
   display: flex;
@@ -114,15 +120,19 @@
   margin-top: 30px;
 }
 .learnMore2 {
+  font-family: Fraunces;
   font-size: 15px;
   color: #24303e;
   font-weight: 900;
   margin-top: 50px;
   margin-left: 110px;
+  cursor: pointer;
 }
-.textDiv2 {
-  box-shadow: 10px 0 5px -2px #888;
+.learnMore2:hover {
+  width: 6.9rem;
+  border-bottom: 5px solid #eadf05;
 }
+
 .fourthSection div {
   display: flex;
 }
@@ -240,4 +250,56 @@
   letter-spacing: -0.10000000149011612px;
   text-align: center;
   color: #a7aaad;
+}
+.imgParentDiv {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 9rem;
+}
+.photo {
+  overflow: hidden;
+  width: 18%;
+  height: 80%;
+}
+.footer {
+  height: 350px;
+  background-color: #90d4c6;
+}
+.logoBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logoBox img {
+  margin-top: 4rem;
+}
+.footer nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer nav ul li {
+  padding: 2.5rem;
+  color: #458d7e;
+  font-size: 18px;
+  cursor: pointer;
+}
+footer nav ul li:hover {
+  color: #ffffff;
+}
+.iconDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconDiv img {
+  padding: 1rem;
+  cursor: pointer;
+}
+.icon:hover {
+  background-color: #ffffff;
+  border-radius: 43%;
 }
