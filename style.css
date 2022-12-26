@@ -34,8 +34,10 @@
   gap: 3rem;
   cursor: pointer;
 }
+
 .contact:hover {
   border: 8px solid white;
+  opacity: 50%;
   border-radius: 28px;
   background-color: #ffffff;
   color: black;
